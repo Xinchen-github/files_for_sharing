@@ -1,5 +1,0 @@
-hub Xinchen_Testing
-shortLabel Mouse hub
-longLabel MouseCAGE grouping hub
-genomesFile grouping.genomes.txt
-email xz5123@ic.ac.uk

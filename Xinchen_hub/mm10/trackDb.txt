@@ -3,6 +3,5 @@ bigDataUrl https://github.com/Xinchen-github/files_for_sharing/blob/main/Xinchen
 shortLabel E105_CAC_L001_R1_001.minus 
 longLabel E105_CAC_L001_R1_001.minus 
 type bigWig 
-parent composite
 visibility full 
 subGroups stage=E105 strand=neg

@@ -447,8 +447,7 @@ longLabel oocyte_GCT_L002_R1_001.plus
 type bigWig 
 parent signalviewtrack
 visibility full
-subGroups stage=oocyte
-strand=pos
+subGroups stage=oocyte strand=pos
 
 track oocyte_GCT_L003_R1_001.minus.bw
 bigDataUrl https://raw.githubusercontent.com/Xinchen-github/files_for_sharing/main/Xinchen_hub/mm10/oocyte_GCT_L003_R1_001.minus.bw

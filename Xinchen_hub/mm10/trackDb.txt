@@ -17,401 +17,6 @@ parent composite
 view signal
 visibility full
 
-track E105_CAC_L001_R1_001.minus.bw
-bigDataUrl https://raw.githubusercontent.com/Xinchen-github/files_for_sharing/main/Xinchen_hub/mm10/E105_CAC_L001_R1_001.minus.bw
-shortLabel E105_CAC_L001_R1_001.minus
-longLabel E105_CAC_L001_R1_001.minus
-type bigWig 
-parent signalviewtrack
-visibility full
-subGroups stage=E105 strand=neg
-
-track E105_CAC_L001_R1_001.plus.bw
-bigDataUrl https://raw.githubusercontent.com/Xinchen-github/files_for_sharing/main/Xinchen_hub/mm10/E105_CAC_L001_R1_001.plus.bw
-shortLabel E105_CAC_L001_R1_001.plus
-longLabel E105_CAC_L001_R1_001.plus
-type bigWig 
-parent signalviewtrack
-visibility full
-subGroups stage=E105 strand=pos
-
-track E105_CAC_L002_R1_001.minus.bw
-bigDataUrl https://raw.githubusercontent.com/Xinchen-github/files_for_sharing/main/Xinchen_hub/mm10/E105_CAC_L002_R1_001.minus.bw
-shortLabel E105_CAC_L002_R1_001.minus
-longLabel E105_CAC_L002_R1_001.minus
-type bigWig 
-parent signalviewtrack
-visibility full
-subGroups stage=E105 strand=neg
-
-track E105_CAC_L002_R1_001.plus.bw
-bigDataUrl https://raw.githubusercontent.com/Xinchen-github/files_for_sharing/main/Xinchen_hub/mm10/E105_CAC_L002_R1_001.plus.bw
-shortLabel E105_CAC_L002_R1_001.plus
-longLabel E105_CAC_L002_R1_001.plus
-type bigWig 
-parent signalviewtrack
-visibility full
-subGroups stage=E105 strand=pos
-
-track E105_CAC_L003_R1_001.minus.bw
-bigDataUrl https://raw.githubusercontent.com/Xinchen-github/files_for_sharing/main/Xinchen_hub/mm10/E105_CAC_L003_R1_001.minus.bw
-shortLabel E105_CAC_L003_R1_001.minus
-longLabel E105_CAC_L003_R1_001.minus
-type bigWig 
-parent signalviewtrack
-visibility full
-subGroups stage=E105 strand=neg
-
-track E105_CAC_L003_R1_001.plus.bw
-bigDataUrl https://raw.githubusercontent.com/Xinchen-github/files_for_sharing/main/Xinchen_hub/mm10/E105_CAC_L003_R1_001.plus.bw
-shortLabel E105_CAC_L003_R1_001.plus
-longLabel E105_CAC_L003_R1_001.plus
-type bigWig 
-parent signalviewtrack
-visibility full
-subGroups stage=E105 strand=pos
-
-track E105_CAC_L004_R1_001.minus.bw
-bigDataUrl https://raw.githubusercontent.com/Xinchen-github/files_for_sharing/main/Xinchen_hub/mm10/E105_CAC_L004_R1_001.minus.bw
-shortLabel E105_CAC_L004_R1_001.minus
-longLabel E105_CAC_L004_R1_001.minus
-type bigWig 
-parent signalviewtrack
-visibility full
-subGroups stage=E105 strand=neg
-
-track E105_CAC_L004_R1_001.plus.bw
-bigDataUrl https://raw.githubusercontent.com/Xinchen-github/files_for_sharing/main/Xinchen_hub/mm10/E105_CAC_L004_R1_001.plus.bw
-shortLabel E105_CAC_L004_R1_001.plus
-longLabel E105_CAC_L004_R1_001.plus
-type bigWig 
-parent signalviewtrack
-visibility full
-subGroups stage=E105 strand=pos
-
-track E10_5rep2_1.minus.bw
-bigDataUrl https://raw.githubusercontent.com/Xinchen-github/files_for_sharing/main/Xinchen_hub/mm10/E10_5rep2_1.minus.bw
-shortLabel E10_5rep2_1.minus
-longLabel E10_5rep2_1.minus
-type bigWig 
-parent signalviewtrack
-visibility full
-subGroups stage=E105 strand=neg
-
-track E10_5rep2_1.plus.bw
-bigDataUrl https://raw.githubusercontent.com/Xinchen-github/files_for_sharing/main/Xinchen_hub/mm10/E10_5rep2_1.plus.bw
-shortLabel E10_5rep2_1.plus
-longLabel E10_5rep2_1.plus
-type bigWig 
-parent signalviewtrack
-visibility full
-subGroups stage=E105 strand=pos
-
-track E10_5rep2_2.minus.bw
-bigDataUrl https://raw.githubusercontent.com/Xinchen-github/files_for_sharing/main/Xinchen_hub/mm10/E10_5rep2_2.minus.bw
-shortLabel E10_5rep2_2.minus
-longLabel E10_5rep2_2.minus
-type bigWig 
-parent signalviewtrack
-visibility full
-subGroups stage=E105 strand=neg
-
-track E10_5rep2_2.plus.bw
-bigDataUrl https://raw.githubusercontent.com/Xinchen-github/files_for_sharing/main/Xinchen_hub/mm10/E10_5rep2_2.plus.bw
-shortLabel E10_5rep2_2.plus
-longLabel E10_5rep2_2.plus
-type bigWig 
-parent signalviewtrack
-visibility full
-subGroups stage=E105 strand=pos
-
-track E10_5rep2_l3_rs.minus.bw
-bigDataUrl https://raw.githubusercontent.com/Xinchen-github/files_for_sharing/main/Xinchen_hub/mm10/E10_5rep2_l3_rs.minus.bw
-shortLabel E10_5rep2_l3_rs.minus
-longLabel E10_5rep2_l3_rs.minus
-type bigWig 
-parent signalviewtrack
-visibility full
-subGroups stage=E105 strand=neg
-
-track E10_5rep2_l3_rs.plus.bw
-bigDataUrl https://raw.githubusercontent.com/Xinchen-github/files_for_sharing/main/Xinchen_hub/mm10/E10_5rep2_l3_rs.plus.bw
-shortLabel E10_5rep2_l3_rs.plus
-longLabel E10_5rep2_l3_rs.plus
-type bigWig 
-parent signalviewtrack
-visibility full
-subGroups stage=E105 strand=pos
-
-track E10_5rep2_l7_rs.minus.bw
-bigDataUrl https://raw.githubusercontent.com/Xinchen-github/files_for_sharing/main/Xinchen_hub/mm10/E10_5rep2_l7_rs.minus.bw
-shortLabel E10_5rep2_l7_rs.minus
-longLabel E10_5rep2_l7_rs.minus
-type bigWig 
-parent signalviewtrack
-visibility full
-subGroups stage=E105 strand=neg
-
-track E10_5rep2_l7_rs.plus.bw
-bigDataUrl https://raw.githubusercontent.com/Xinchen-github/files_for_sharing/main/Xinchen_hub/mm10/E10_5rep2_l7_rs.plus.bw
-shortLabel E10_5rep2_l7_rs.plus
-longLabel E10_5rep2_l7_rs.plus
-type bigWig 
-parent signalviewtrack
-visibility full
-subGroups stage=E105 strand=pos
-
-track E14_sample1_L3.minus.bw
-bigDataUrl https://raw.githubusercontent.com/Xinchen-github/files_for_sharing/main/Xinchen_hub/mm10/E14_sample1_L3.minus.bw
-shortLabel E14_sample1_L3.minus
-longLabel E14_sample1_L3.minus
-type bigWig 
-parent signalviewtrack
-visibility full
-subGroups stage=E14 strand=neg
-
-track E14_sample1_L3.plus.bw
-bigDataUrl https://raw.githubusercontent.com/Xinchen-github/files_for_sharing/main/Xinchen_hub/mm10/E14_sample1_L3.plus.bw
-shortLabel E14_sample1_L3.plus
-longLabel E14_sample1_L3.plus
-type bigWig 
-parent signalviewtrack
-visibility full
-subGroups stage=E14 strand=pos
-
-track E14_sample1_L4.minus.bw
-bigDataUrl https://raw.githubusercontent.com/Xinchen-github/files_for_sharing/main/Xinchen_hub/mm10/E14_sample1_L4.minus.bw
-shortLabel E14_sample1_L4.minus
-longLabel E14_sample1_L4.minus
-type bigWig 
-parent signalviewtrack
-visibility full
-subGroups stage=E14 strand=neg
-
-track E14_sample1_L4.plus.bw
-bigDataUrl https://raw.githubusercontent.com/Xinchen-github/files_for_sharing/main/Xinchen_hub/mm10/E14_sample1_L4.plus.bw
-shortLabel E14_sample1_L4.plus
-longLabel E14_sample1_L4.plus
-type bigWig 
-parent signalviewtrack
-visibility full
-subGroups stage=E14 strand=pos
-
-track E14_sample2_L3.minus.bw
-bigDataUrl https://raw.githubusercontent.com/Xinchen-github/files_for_sharing/main/Xinchen_hub/mm10/E14_sample2_L3.minus.bw
-shortLabel E14_sample2_L3.minus
-longLabel E14_sample2_L3.minus
-type bigWig 
-parent signalviewtrack
-visibility full
-subGroups stage=E14 strand=neg
-
-track E14_sample2_L3.plus.bw
-bigDataUrl https://raw.githubusercontent.com/Xinchen-github/files_for_sharing/main/Xinchen_hub/mm10/E14_sample2_L3.plus.bw
-shortLabel E14_sample2_L3.plus
-longLabel E14_sample2_L3.plus
-type bigWig 
-parent signalviewtrack
-visibility full
-subGroups stage=E14 strand=pos
-
-track E14_sample2_L4.minus.bw
-bigDataUrl https://raw.githubusercontent.com/Xinchen-github/files_for_sharing/main/Xinchen_hub/mm10/E14_sample2_L4.minus.bw
-shortLabel E14_sample2_L4.minus
-longLabel E14_sample2_L4.minus
-type bigWig 
-parent signalviewtrack
-visibility full
-subGroups stage=E14 strand=neg
-
-track E14_sample2_L4.plus.bw
-bigDataUrl https://raw.githubusercontent.com/Xinchen-github/files_for_sharing/main/Xinchen_hub/mm10/E14_sample2_L4.plus.bw
-shortLabel E14_sample2_L4.plus
-longLabel E14_sample2_L4.plus
-type bigWig 
-parent signalviewtrack
-visibility full
-subGroups stage=E14 strand=pos
-
-track E14_sample3_L3.minus.bw
-bigDataUrl https://raw.githubusercontent.com/Xinchen-github/files_for_sharing/main/Xinchen_hub/mm10/E14_sample3_L3.minus.bw
-shortLabel E14_sample3_L3.minus
-longLabel E14_sample3_L3.minus
-type bigWig 
-parent signalviewtrack
-visibility full
-subGroups stage=E14 strand=neg
-
-track E14_sample3_L3.plus.bw
-bigDataUrl https://raw.githubusercontent.com/Xinchen-github/files_for_sharing/main/Xinchen_hub/mm10/E14_sample3_L3.plus.bw
-shortLabel E14_sample3_L3.plus
-longLabel E14_sample3_L3.plus
-type bigWig 
-parent signalviewtrack
-visibility full
-subGroups stage=E14 strand=pos
-
-track E14_sample3_L4.minus.bw
-bigDataUrl https://raw.githubusercontent.com/Xinchen-github/files_for_sharing/main/Xinchen_hub/mm10/E14_sample3_L4.minus.bw
-shortLabel E14_sample3_L4.minus
-longLabel E14_sample3_L4.minus
-type bigWig 
-parent signalviewtrack
-visibility full
-subGroups stage=E14 strand=neg
-
-track E14_sample3_L4.plus.bw
-bigDataUrl https://raw.githubusercontent.com/Xinchen-github/files_for_sharing/main/Xinchen_hub/mm10/E14_sample3_L4.plus.bw
-shortLabel E14_sample3_L4.plus
-longLabel E14_sample3_L4.plus
-type bigWig 
-parent signalviewtrack
-visibility full
-subGroups stage=E14 strand=pos
-
-track E14_sample4_L3.minus.bw
-bigDataUrl https://raw.githubusercontent.com/Xinchen-github/files_for_sharing/main/Xinchen_hub/mm10/E14_sample4_L3.minus.bw
-shortLabel E14_sample4_L3.minus
-longLabel E14_sample4_L3.minus
-type bigWig 
-parent signalviewtrack
-visibility full
-subGroups stage=E14 strand=neg
-
-track E14_sample4_L3.plus.bw
-bigDataUrl https://raw.githubusercontent.com/Xinchen-github/files_for_sharing/main/Xinchen_hub/mm10/E14_sample4_L3.plus.bw
-shortLabel E14_sample4_L3.plus
-longLabel E14_sample4_L3.plus
-type bigWig 
-parent signalviewtrack
-visibility full
-subGroups stage=E14 strand=pos
-
-track E14_sample4_L4.minus.bw
-bigDataUrl https://raw.githubusercontent.com/Xinchen-github/files_for_sharing/main/Xinchen_hub/mm10/E14_sample4_L4.minus.bw
-shortLabel E14_sample4_L4.minus
-longLabel E14_sample4_L4.minus
-type bigWig 
-parent signalviewtrack
-visibility full
-subGroups stage=E14 strand=neg
-
-track E14_sample4_L4.plus.bw
-bigDataUrl https://raw.githubusercontent.com/Xinchen-github/files_for_sharing/main/Xinchen_hub/mm10/E14_sample4_L4.plus.bw
-shortLabel E14_sample4_L4.plus
-longLabel E14_sample4_L4.plus
-type bigWig 
-parent signalviewtrack
-visibility full
-subGroups stage=E14 strand=pos
-
-track E14_sample5_L3.minus.bw
-bigDataUrl https://raw.githubusercontent.com/Xinchen-github/files_for_sharing/main/Xinchen_hub/mm10/E14_sample5_L3.minus.bw
-shortLabel E14_sample5_L3.minus
-longLabel E14_sample5_L3.minus
-type bigWig 
-parent signalviewtrack
-visibility full
-subGroups stage=E14 strand=neg
-
-track E14_sample5_L3.plus.bw
-bigDataUrl https://raw.githubusercontent.com/Xinchen-github/files_for_sharing/main/Xinchen_hub/mm10/E14_sample5_L3.plus.bw
-shortLabel E14_sample5_L3.plus
-longLabel E14_sample5_L3.plus
-type bigWig 
-parent signalviewtrack
-visibility full
-subGroups stage=E14 strand=pos
-
-track E14_sample5_L4.minus.bw
-bigDataUrl https://raw.githubusercontent.com/Xinchen-github/files_for_sharing/main/Xinchen_hub/mm10/E14_sample5_L4.minus.bw
-shortLabel E14_sample5_L4.minus
-longLabel E14_sample5_L4.minus
-type bigWig 
-parent signalviewtrack
-visibility full
-subGroups stage=E14 strand=neg
-
-track E14_sample5_L4.plus.bw
-bigDataUrl https://raw.githubusercontent.com/Xinchen-github/files_for_sharing/main/Xinchen_hub/mm10/E14_sample5_L4.plus.bw
-shortLabel E14_sample5_L4.plus
-longLabel E14_sample5_L4.plus
-type bigWig 
-parent signalviewtrack
-visibility full
-subGroups stage=E14 strand=pos
-
-track E14_sample6_L3.minus.bw
-bigDataUrl https://raw.githubusercontent.com/Xinchen-github/files_for_sharing/main/Xinchen_hub/mm10/E14_sample6_L3.minus.bw
-shortLabel E14_sample6_L3.minus
-longLabel E14_sample6_L3.minus
-type bigWig 
-parent signalviewtrack
-visibility full
-subGroups stage=E14 strand=neg
-
-track E14_sample6_L3.plus.bw
-bigDataUrl https://raw.githubusercontent.com/Xinchen-github/files_for_sharing/main/Xinchen_hub/mm10/E14_sample6_L3.plus.bw
-shortLabel E14_sample6_L3.plus
-longLabel E14_sample6_L3.plus
-type bigWig 
-parent signalviewtrack
-visibility full
-subGroups stage=E14 strand=pos
-
-track E14_sample6_L4.minus.bw
-bigDataUrl https://raw.githubusercontent.com/Xinchen-github/files_for_sharing/main/Xinchen_hub/mm10/E14_sample6_L4.minus.bw
-shortLabel E14_sample6_L4.minus
-longLabel E14_sample6_L4.minus
-type bigWig 
-parent signalviewtrack
-visibility full
-subGroups stage=E14 strand=neg
-
-track E14_sample6_L4.plus.bw
-bigDataUrl https://raw.githubusercontent.com/Xinchen-github/files_for_sharing/main/Xinchen_hub/mm10/E14_sample6_L4.plus.bw
-shortLabel E14_sample6_L4.plus
-longLabel E14_sample6_L4.plus
-type bigWig 
-parent signalviewtrack
-visibility full
-subGroups stage=E14 strand=pos
-
-track E14_sample7_L3.minus.bw
-bigDataUrl https://raw.githubusercontent.com/Xinchen-github/files_for_sharing/main/Xinchen_hub/mm10/E14_sample7_L3.minus.bw
-shortLabel E14_sample7_L3.minus
-longLabel E14_sample7_L3.minus
-type bigWig 
-parent signalviewtrack
-visibility full
-subGroups stage=E14 strand=neg
-
-track E14_sample7_L3.plus.bw
-bigDataUrl https://raw.githubusercontent.com/Xinchen-github/files_for_sharing/main/Xinchen_hub/mm10/E14_sample7_L3.plus.bw
-shortLabel E14_sample7_L3.plus
-longLabel E14_sample7_L3.plus
-type bigWig 
-parent signalviewtrack
-visibility full
-subGroups stage=E14 strand=pos
-
-track E14_sample7_L4.minus.bw
-bigDataUrl https://raw.githubusercontent.com/Xinchen-github/files_for_sharing/main/Xinchen_hub/mm10/E14_sample7_L4.minus.bw
-shortLabel E14_sample7_L4.minus
-longLabel E14_sample7_L4.minus
-type bigWig 
-parent signalviewtrack
-visibility full
-subGroups stage=E14 strand=neg
-
-track E14_sample7_L4.plus.bw
-bigDataUrl https://raw.githubusercontent.com/Xinchen-github/files_for_sharing/main/Xinchen_hub/mm10/E14_sample7_L4.plus.bw
-shortLabel E14_sample7_L4.plus
-longLabel E14_sample7_L4.plus
-type bigWig 
-parent signalviewtrack
-visibility full
-subGroups stage=E14 strand=pos
 
 track oocyte_GCT_L001_R1_001.minus.bw
 bigDataUrl https://raw.githubusercontent.com/Xinchen-github/files_for_sharing/main/Xinchen_hub/mm10/oocyte_GCT_L001_R1_001.minus.bw
@@ -844,3 +449,399 @@ type bigWig
 parent signalviewtrack
 visibility full
 subGroups stage=S4 strand=pos
+
+track E105_CAC_L001_R1_001.minus.bw
+bigDataUrl https://raw.githubusercontent.com/Xinchen-github/files_for_sharing/main/Xinchen_hub/mm10/E105_CAC_L001_R1_001.minus.bw
+shortLabel E105_CAC_L001_R1_001.minus
+longLabel E105_CAC_L001_R1_001.minus
+type bigWig 
+parent signalviewtrack
+visibility full
+subGroups stage=E105 strand=neg
+
+track E105_CAC_L001_R1_001.plus.bw
+bigDataUrl https://raw.githubusercontent.com/Xinchen-github/files_for_sharing/main/Xinchen_hub/mm10/E105_CAC_L001_R1_001.plus.bw
+shortLabel E105_CAC_L001_R1_001.plus
+longLabel E105_CAC_L001_R1_001.plus
+type bigWig 
+parent signalviewtrack
+visibility full
+subGroups stage=E105 strand=pos
+
+track E105_CAC_L002_R1_001.minus.bw
+bigDataUrl https://raw.githubusercontent.com/Xinchen-github/files_for_sharing/main/Xinchen_hub/mm10/E105_CAC_L002_R1_001.minus.bw
+shortLabel E105_CAC_L002_R1_001.minus
+longLabel E105_CAC_L002_R1_001.minus
+type bigWig 
+parent signalviewtrack
+visibility full
+subGroups stage=E105 strand=neg
+
+track E105_CAC_L002_R1_001.plus.bw
+bigDataUrl https://raw.githubusercontent.com/Xinchen-github/files_for_sharing/main/Xinchen_hub/mm10/E105_CAC_L002_R1_001.plus.bw
+shortLabel E105_CAC_L002_R1_001.plus
+longLabel E105_CAC_L002_R1_001.plus
+type bigWig 
+parent signalviewtrack
+visibility full
+subGroups stage=E105 strand=pos
+
+track E105_CAC_L003_R1_001.minus.bw
+bigDataUrl https://raw.githubusercontent.com/Xinchen-github/files_for_sharing/main/Xinchen_hub/mm10/E105_CAC_L003_R1_001.minus.bw
+shortLabel E105_CAC_L003_R1_001.minus
+longLabel E105_CAC_L003_R1_001.minus
+type bigWig 
+parent signalviewtrack
+visibility full
+subGroups stage=E105 strand=neg
+
+track E105_CAC_L003_R1_001.plus.bw
+bigDataUrl https://raw.githubusercontent.com/Xinchen-github/files_for_sharing/main/Xinchen_hub/mm10/E105_CAC_L003_R1_001.plus.bw
+shortLabel E105_CAC_L003_R1_001.plus
+longLabel E105_CAC_L003_R1_001.plus
+type bigWig 
+parent signalviewtrack
+visibility full
+subGroups stage=E105 strand=pos
+
+track E105_CAC_L004_R1_001.minus.bw
+bigDataUrl https://raw.githubusercontent.com/Xinchen-github/files_for_sharing/main/Xinchen_hub/mm10/E105_CAC_L004_R1_001.minus.bw
+shortLabel E105_CAC_L004_R1_001.minus
+longLabel E105_CAC_L004_R1_001.minus
+type bigWig 
+parent signalviewtrack
+visibility full
+subGroups stage=E105 strand=neg
+
+track E105_CAC_L004_R1_001.plus.bw
+bigDataUrl https://raw.githubusercontent.com/Xinchen-github/files_for_sharing/main/Xinchen_hub/mm10/E105_CAC_L004_R1_001.plus.bw
+shortLabel E105_CAC_L004_R1_001.plus
+longLabel E105_CAC_L004_R1_001.plus
+type bigWig 
+parent signalviewtrack
+visibility full
+subGroups stage=E105 strand=pos
+
+track E10_5rep2_1.minus.bw
+bigDataUrl https://raw.githubusercontent.com/Xinchen-github/files_for_sharing/main/Xinchen_hub/mm10/E10_5rep2_1.minus.bw
+shortLabel E10_5rep2_1.minus
+longLabel E10_5rep2_1.minus
+type bigWig 
+parent signalviewtrack
+visibility full
+subGroups stage=E105 strand=neg
+
+track E10_5rep2_1.plus.bw
+bigDataUrl https://raw.githubusercontent.com/Xinchen-github/files_for_sharing/main/Xinchen_hub/mm10/E10_5rep2_1.plus.bw
+shortLabel E10_5rep2_1.plus
+longLabel E10_5rep2_1.plus
+type bigWig 
+parent signalviewtrack
+visibility full
+subGroups stage=E105 strand=pos
+
+track E10_5rep2_2.minus.bw
+bigDataUrl https://raw.githubusercontent.com/Xinchen-github/files_for_sharing/main/Xinchen_hub/mm10/E10_5rep2_2.minus.bw
+shortLabel E10_5rep2_2.minus
+longLabel E10_5rep2_2.minus
+type bigWig 
+parent signalviewtrack
+visibility full
+subGroups stage=E105 strand=neg
+
+track E10_5rep2_2.plus.bw
+bigDataUrl https://raw.githubusercontent.com/Xinchen-github/files_for_sharing/main/Xinchen_hub/mm10/E10_5rep2_2.plus.bw
+shortLabel E10_5rep2_2.plus
+longLabel E10_5rep2_2.plus
+type bigWig 
+parent signalviewtrack
+visibility full
+subGroups stage=E105 strand=pos
+
+track E10_5rep2_l3_rs.minus.bw
+bigDataUrl https://raw.githubusercontent.com/Xinchen-github/files_for_sharing/main/Xinchen_hub/mm10/E10_5rep2_l3_rs.minus.bw
+shortLabel E10_5rep2_l3_rs.minus
+longLabel E10_5rep2_l3_rs.minus
+type bigWig 
+parent signalviewtrack
+visibility full
+subGroups stage=E105 strand=neg
+
+track E10_5rep2_l3_rs.plus.bw
+bigDataUrl https://raw.githubusercontent.com/Xinchen-github/files_for_sharing/main/Xinchen_hub/mm10/E10_5rep2_l3_rs.plus.bw
+shortLabel E10_5rep2_l3_rs.plus
+longLabel E10_5rep2_l3_rs.plus
+type bigWig 
+parent signalviewtrack
+visibility full
+subGroups stage=E105 strand=pos
+
+track E10_5rep2_l7_rs.minus.bw
+bigDataUrl https://raw.githubusercontent.com/Xinchen-github/files_for_sharing/main/Xinchen_hub/mm10/E10_5rep2_l7_rs.minus.bw
+shortLabel E10_5rep2_l7_rs.minus
+longLabel E10_5rep2_l7_rs.minus
+type bigWig 
+parent signalviewtrack
+visibility full
+subGroups stage=E105 strand=neg
+
+track E10_5rep2_l7_rs.plus.bw
+bigDataUrl https://raw.githubusercontent.com/Xinchen-github/files_for_sharing/main/Xinchen_hub/mm10/E10_5rep2_l7_rs.plus.bw
+shortLabel E10_5rep2_l7_rs.plus
+longLabel E10_5rep2_l7_rs.plus
+type bigWig 
+parent signalviewtrack
+visibility full
+subGroups stage=E105 strand=pos
+
+track E14_sample1_L3.minus.bw
+bigDataUrl https://raw.githubusercontent.com/Xinchen-github/files_for_sharing/main/Xinchen_hub/mm10/E14_sample1_L3.minus.bw
+shortLabel E14_sample1_L3.minus
+longLabel E14_sample1_L3.minus
+type bigWig 
+parent signalviewtrack
+visibility full
+subGroups stage=E14 strand=neg
+
+track E14_sample1_L3.plus.bw
+bigDataUrl https://raw.githubusercontent.com/Xinchen-github/files_for_sharing/main/Xinchen_hub/mm10/E14_sample1_L3.plus.bw
+shortLabel E14_sample1_L3.plus
+longLabel E14_sample1_L3.plus
+type bigWig 
+parent signalviewtrack
+visibility full
+subGroups stage=E14 strand=pos
+
+track E14_sample1_L4.minus.bw
+bigDataUrl https://raw.githubusercontent.com/Xinchen-github/files_for_sharing/main/Xinchen_hub/mm10/E14_sample1_L4.minus.bw
+shortLabel E14_sample1_L4.minus
+longLabel E14_sample1_L4.minus
+type bigWig 
+parent signalviewtrack
+visibility full
+subGroups stage=E14 strand=neg
+
+track E14_sample1_L4.plus.bw
+bigDataUrl https://raw.githubusercontent.com/Xinchen-github/files_for_sharing/main/Xinchen_hub/mm10/E14_sample1_L4.plus.bw
+shortLabel E14_sample1_L4.plus
+longLabel E14_sample1_L4.plus
+type bigWig 
+parent signalviewtrack
+visibility full
+subGroups stage=E14 strand=pos
+
+track E14_sample2_L3.minus.bw
+bigDataUrl https://raw.githubusercontent.com/Xinchen-github/files_for_sharing/main/Xinchen_hub/mm10/E14_sample2_L3.minus.bw
+shortLabel E14_sample2_L3.minus
+longLabel E14_sample2_L3.minus
+type bigWig 
+parent signalviewtrack
+visibility full
+subGroups stage=E14 strand=neg
+
+track E14_sample2_L3.plus.bw
+bigDataUrl https://raw.githubusercontent.com/Xinchen-github/files_for_sharing/main/Xinchen_hub/mm10/E14_sample2_L3.plus.bw
+shortLabel E14_sample2_L3.plus
+longLabel E14_sample2_L3.plus
+type bigWig 
+parent signalviewtrack
+visibility full
+subGroups stage=E14 strand=pos
+
+track E14_sample2_L4.minus.bw
+bigDataUrl https://raw.githubusercontent.com/Xinchen-github/files_for_sharing/main/Xinchen_hub/mm10/E14_sample2_L4.minus.bw
+shortLabel E14_sample2_L4.minus
+longLabel E14_sample2_L4.minus
+type bigWig 
+parent signalviewtrack
+visibility full
+subGroups stage=E14 strand=neg
+
+track E14_sample2_L4.plus.bw
+bigDataUrl https://raw.githubusercontent.com/Xinchen-github/files_for_sharing/main/Xinchen_hub/mm10/E14_sample2_L4.plus.bw
+shortLabel E14_sample2_L4.plus
+longLabel E14_sample2_L4.plus
+type bigWig 
+parent signalviewtrack
+visibility full
+subGroups stage=E14 strand=pos
+
+track E14_sample3_L3.minus.bw
+bigDataUrl https://raw.githubusercontent.com/Xinchen-github/files_for_sharing/main/Xinchen_hub/mm10/E14_sample3_L3.minus.bw
+shortLabel E14_sample3_L3.minus
+longLabel E14_sample3_L3.minus
+type bigWig 
+parent signalviewtrack
+visibility full
+subGroups stage=E14 strand=neg
+
+track E14_sample3_L3.plus.bw
+bigDataUrl https://raw.githubusercontent.com/Xinchen-github/files_for_sharing/main/Xinchen_hub/mm10/E14_sample3_L3.plus.bw
+shortLabel E14_sample3_L3.plus
+longLabel E14_sample3_L3.plus
+type bigWig 
+parent signalviewtrack
+visibility full
+subGroups stage=E14 strand=pos
+
+track E14_sample3_L4.minus.bw
+bigDataUrl https://raw.githubusercontent.com/Xinchen-github/files_for_sharing/main/Xinchen_hub/mm10/E14_sample3_L4.minus.bw
+shortLabel E14_sample3_L4.minus
+longLabel E14_sample3_L4.minus
+type bigWig 
+parent signalviewtrack
+visibility full
+subGroups stage=E14 strand=neg
+
+track E14_sample3_L4.plus.bw
+bigDataUrl https://raw.githubusercontent.com/Xinchen-github/files_for_sharing/main/Xinchen_hub/mm10/E14_sample3_L4.plus.bw
+shortLabel E14_sample3_L4.plus
+longLabel E14_sample3_L4.plus
+type bigWig 
+parent signalviewtrack
+visibility full
+subGroups stage=E14 strand=pos
+
+track E14_sample4_L3.minus.bw
+bigDataUrl https://raw.githubusercontent.com/Xinchen-github/files_for_sharing/main/Xinchen_hub/mm10/E14_sample4_L3.minus.bw
+shortLabel E14_sample4_L3.minus
+longLabel E14_sample4_L3.minus
+type bigWig 
+parent signalviewtrack
+visibility full
+subGroups stage=E14 strand=neg
+
+track E14_sample4_L3.plus.bw
+bigDataUrl https://raw.githubusercontent.com/Xinchen-github/files_for_sharing/main/Xinchen_hub/mm10/E14_sample4_L3.plus.bw
+shortLabel E14_sample4_L3.plus
+longLabel E14_sample4_L3.plus
+type bigWig 
+parent signalviewtrack
+visibility full
+subGroups stage=E14 strand=pos
+
+track E14_sample4_L4.minus.bw
+bigDataUrl https://raw.githubusercontent.com/Xinchen-github/files_for_sharing/main/Xinchen_hub/mm10/E14_sample4_L4.minus.bw
+shortLabel E14_sample4_L4.minus
+longLabel E14_sample4_L4.minus
+type bigWig 
+parent signalviewtrack
+visibility full
+subGroups stage=E14 strand=neg
+
+track E14_sample4_L4.plus.bw
+bigDataUrl https://raw.githubusercontent.com/Xinchen-github/files_for_sharing/main/Xinchen_hub/mm10/E14_sample4_L4.plus.bw
+shortLabel E14_sample4_L4.plus
+longLabel E14_sample4_L4.plus
+type bigWig 
+parent signalviewtrack
+visibility full
+subGroups stage=E14 strand=pos
+
+track E14_sample5_L3.minus.bw
+bigDataUrl https://raw.githubusercontent.com/Xinchen-github/files_for_sharing/main/Xinchen_hub/mm10/E14_sample5_L3.minus.bw
+shortLabel E14_sample5_L3.minus
+longLabel E14_sample5_L3.minus
+type bigWig 
+parent signalviewtrack
+visibility full
+subGroups stage=E14 strand=neg
+
+track E14_sample5_L3.plus.bw
+bigDataUrl https://raw.githubusercontent.com/Xinchen-github/files_for_sharing/main/Xinchen_hub/mm10/E14_sample5_L3.plus.bw
+shortLabel E14_sample5_L3.plus
+longLabel E14_sample5_L3.plus
+type bigWig 
+parent signalviewtrack
+visibility full
+subGroups stage=E14 strand=pos
+
+track E14_sample5_L4.minus.bw
+bigDataUrl https://raw.githubusercontent.com/Xinchen-github/files_for_sharing/main/Xinchen_hub/mm10/E14_sample5_L4.minus.bw
+shortLabel E14_sample5_L4.minus
+longLabel E14_sample5_L4.minus
+type bigWig 
+parent signalviewtrack
+visibility full
+subGroups stage=E14 strand=neg
+
+track E14_sample5_L4.plus.bw
+bigDataUrl https://raw.githubusercontent.com/Xinchen-github/files_for_sharing/main/Xinchen_hub/mm10/E14_sample5_L4.plus.bw
+shortLabel E14_sample5_L4.plus
+longLabel E14_sample5_L4.plus
+type bigWig 
+parent signalviewtrack
+visibility full
+subGroups stage=E14 strand=pos
+
+track E14_sample6_L3.minus.bw
+bigDataUrl https://raw.githubusercontent.com/Xinchen-github/files_for_sharing/main/Xinchen_hub/mm10/E14_sample6_L3.minus.bw
+shortLabel E14_sample6_L3.minus
+longLabel E14_sample6_L3.minus
+type bigWig 
+parent signalviewtrack
+visibility full
+subGroups stage=E14 strand=neg
+
+track E14_sample6_L3.plus.bw
+bigDataUrl https://raw.githubusercontent.com/Xinchen-github/files_for_sharing/main/Xinchen_hub/mm10/E14_sample6_L3.plus.bw
+shortLabel E14_sample6_L3.plus
+longLabel E14_sample6_L3.plus
+type bigWig 
+parent signalviewtrack
+visibility full
+subGroups stage=E14 strand=pos
+
+track E14_sample6_L4.minus.bw
+bigDataUrl https://raw.githubusercontent.com/Xinchen-github/files_for_sharing/main/Xinchen_hub/mm10/E14_sample6_L4.minus.bw
+shortLabel E14_sample6_L4.minus
+longLabel E14_sample6_L4.minus
+type bigWig 
+parent signalviewtrack
+visibility full
+subGroups stage=E14 strand=neg
+
+track E14_sample6_L4.plus.bw
+bigDataUrl https://raw.githubusercontent.com/Xinchen-github/files_for_sharing/main/Xinchen_hub/mm10/E14_sample6_L4.plus.bw
+shortLabel E14_sample6_L4.plus
+longLabel E14_sample6_L4.plus
+type bigWig 
+parent signalviewtrack
+visibility full
+subGroups stage=E14 strand=pos
+
+track E14_sample7_L3.minus.bw
+bigDataUrl https://raw.githubusercontent.com/Xinchen-github/files_for_sharing/main/Xinchen_hub/mm10/E14_sample7_L3.minus.bw
+shortLabel E14_sample7_L3.minus
+longLabel E14_sample7_L3.minus
+type bigWig 
+parent signalviewtrack
+visibility full
+subGroups stage=E14 strand=neg
+
+track E14_sample7_L3.plus.bw
+bigDataUrl https://raw.githubusercontent.com/Xinchen-github/files_for_sharing/main/Xinchen_hub/mm10/E14_sample7_L3.plus.bw
+shortLabel E14_sample7_L3.plus
+longLabel E14_sample7_L3.plus
+type bigWig 
+parent signalviewtrack
+visibility full
+subGroups stage=E14 strand=pos
+
+track E14_sample7_L4.minus.bw
+bigDataUrl https://raw.githubusercontent.com/Xinchen-github/files_for_sharing/main/Xinchen_hub/mm10/E14_sample7_L4.minus.bw
+shortLabel E14_sample7_L4.minus
+longLabel E14_sample7_L4.minus
+type bigWig 
+parent signalviewtrack
+visibility full
+subGroups stage=E14 strand=neg
+
+track E14_sample7_L4.plus.bw
+bigDataUrl https://raw.githubusercontent.com/Xinchen-github/files_for_sharing/main/Xinchen_hub/mm10/E14_sample7_L4.plus.bw
+shortLabel E14_sample7_L4.plus
+longLabel E14_sample7_L4.plus
+type bigWig 
+parent signalviewtrack
+visibility full
+subGroups stage=E14 strand=pos

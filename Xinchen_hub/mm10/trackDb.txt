@@ -1,7 +1,28 @@
+track composite
+shortLabel Mouse_CAGE
+longLabel MOUSE_CAGE
+type bigWig
+dimensions dimX=stage dimY=strand
+sortOrder stage=oocyte strand=pos
+visibility full
+subGroup1 stage Stage oocyte=oocyte S2=S2 S4=S4 E105=E105 E14=E14
+subGroup2 strand Strand pos=1 neg=2
+compositeTrack on
+
+track signalviewtrack
+shortLabel Signal
+longLabel Signal
+type bigWig
+parent composite
+view signal
+visibility full
+
 track E105_CAC_L001_R1_001.minus.bw 
-bigDataUrl https://github.com/Xinchen-github/files_for_sharing/blob/main/Xinchen_hub/mm10/E105_CAC_L001_R1_001.minus.bw 
+bigDataUrl https://raw.githubusercontent.com/Xinchen-github/files_for_sharing/main/Xinchen_hub/mm10/E105_CAC_L001_R1_001.minus.bw 
 shortLabel E105_CAC_L001_R1_001.minus 
 longLabel E105_CAC_L001_R1_001.minus 
 type bigWig 
+parent signalviewtrack 
+viewLimits -2:2 
 visibility full 
 subGroups stage=E105 strand=neg

@@ -24,8 +24,7 @@ longLabel E105_CAC_L001_R1_001.minus
 type bigWig 
 parent signalviewtrack
 visibility full
-subGroups stage=E105
-strand=neg
+subGroups stage=E105 strand=neg
 
 track E105_CAC_L001_R1_001.plus.bw
 bigDataUrl https://raw.githubusercontent.com/Xinchen-github/files_for_sharing/main/Xinchen_hub/mm10/E105_CAC_L001_R1_001.plus.bw
@@ -34,8 +33,7 @@ longLabel E105_CAC_L001_R1_001.plus
 type bigWig 
 parent signalviewtrack
 visibility full
-subGroups stage=E105
-strand=pos
+subGroups stage=E105 strand=pos
 
 track E105_CAC_L002_R1_001.minus.bw
 bigDataUrl https://raw.githubusercontent.com/Xinchen-github/files_for_sharing/main/Xinchen_hub/mm10/E105_CAC_L002_R1_001.minus.bw
@@ -44,8 +42,7 @@ longLabel E105_CAC_L002_R1_001.minus
 type bigWig 
 parent signalviewtrack
 visibility full
-subGroups stage=E105
-strand=neg
+subGroups stage=E105 strand=neg
 
 track E105_CAC_L002_R1_001.plus.bw
 bigDataUrl https://raw.githubusercontent.com/Xinchen-github/files_for_sharing/main/Xinchen_hub/mm10/E105_CAC_L002_R1_001.plus.bw
@@ -54,8 +51,7 @@ longLabel E105_CAC_L002_R1_001.plus
 type bigWig 
 parent signalviewtrack
 visibility full
-subGroups stage=E105
-strand=pos
+subGroups stage=E105 strand=pos
 
 track E105_CAC_L003_R1_001.minus.bw
 bigDataUrl https://raw.githubusercontent.com/Xinchen-github/files_for_sharing/main/Xinchen_hub/mm10/E105_CAC_L003_R1_001.minus.bw
@@ -64,8 +60,7 @@ longLabel E105_CAC_L003_R1_001.minus
 type bigWig 
 parent signalviewtrack
 visibility full
-subGroups stage=E105
-strand=neg
+subGroups stage=E105 strand=neg
 
 track E105_CAC_L003_R1_001.plus.bw
 bigDataUrl https://raw.githubusercontent.com/Xinchen-github/files_for_sharing/main/Xinchen_hub/mm10/E105_CAC_L003_R1_001.plus.bw
